@@ -1,12 +1,1 @@
-path_provider
-permission_handler
-flutter_dotenv
-dio
-flutter_secure_storage
-encrypt
-logger
-flutter_screenutil
-get_it
-injectable
-flutter_svg
-get
+path_provider permission_handler flutter_dotenv dio flutter_secure_storage encrypt logger flutter_screenutil get_it injectable flutter_svg get
